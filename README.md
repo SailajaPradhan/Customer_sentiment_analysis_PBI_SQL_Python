@@ -1,4 +1,4 @@
-# Customee Sentiment Review for Marketing Analysis using PowerBI_SQL_Python
+# Customer Sentiment Review for Marketing Analysis using PowerBI_SQL_Python
 
 ## 📌 Project Overview
 A company has experienced a decline in customer engagement and conversion rates despite investing heavily in new online marketing campaigns. The objective of this project is to perform a comprehensive analysis of marketing performance, customer behavior, and customer feedback to identify opportunities for improvement and provide actionable recommendations.
